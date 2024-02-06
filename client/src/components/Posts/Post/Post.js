@@ -51,5 +51,4 @@ function Post({ post, setCurrentId }) {
 
 export default Post;
 
-// Develoed by SahilMakvana 
-// Develoed by SahilMakvana 
+// Develoed by SahilMakvana
