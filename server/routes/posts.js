@@ -12,8 +12,3 @@ router.patch('/:id/likePost', likePost);
 export default router; 
 
 // Developed by SahilMakvana
-// Developed by SahilMakvana
-// Developed by SahilMakvana
-// Developed by SahilMakvana
-// Developed by SahilMakvana
-// Developed by SahilMakvana
